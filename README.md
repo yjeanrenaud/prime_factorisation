@@ -10,3 +10,4 @@ So far, there is:
 - [Python: prime_factorisation.py](prime_factorisation.py)
 - [Ruby: prime_factorisation.rb](prime_factorisation.rb)
 - [JavaScript: prime_factorisation.js](prime_factorisation.js)
+- [R: prime_factorisation.R](prime_factorisation.R)
