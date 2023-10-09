@@ -8,3 +8,5 @@ So far, there is:
 - [ARMv7 Assembler: prime_factorisation.asm](prime_factorisation.asm)
 - [Klotin: prime_factorisation.ks](prime_factorisation.ks)
 - [Python: prime_factorisation.py](prime_factorisation.py)
+- [Ruby: prime_factorisation.rb](prime_factorisation.rb)
+- [JavaScript: prime_factorisation.js](prime_factorisation.js)
