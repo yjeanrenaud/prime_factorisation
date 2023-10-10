@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-:FindPrimeFactors
+:PrimeFactorisation
 set "n=%~1"
 set "factors="
 
