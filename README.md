@@ -17,3 +17,4 @@ So far, there is:
 - bash script: [prime_factorisation.sh](prime_factorisation.sh)
 - dos batch file: [prime_factorisation.bat](prime_factorisation.bat)
 - powershell: [prime_factorisation.ps](prime_factorisation.sh)
+- MATLAB: [prime_factorisation.m](prime_factorisation.m)
