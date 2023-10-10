@@ -14,3 +14,6 @@ So far, there is:
 - Ruby: [prime_factorisation.rb](prime_factorisation.rb)
 - JavaScript: [prime_factorisation.js](prime_factorisation.js)
 - R: [prime_factorisation.R](prime_factorisation.R)
+- bash script: [prime_factorisation.sh](prime_factorisation.sh)
+- dos batch file:[prime_factorisation.bat](prime_factorisation.bat)
+- powershell:[prime_factorisation.ps](prime_factorisation.sh)
